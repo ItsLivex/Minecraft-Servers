@@ -1,24 +1,24 @@
-# Minecraft Server Jars
+# Minecraft-Servers
 
-A simple and responsive website that lets you download Minecraft server JAR files without having to search all over the internet.
+A collection of Minecraft server JAR download links in one place.
 
-## ✨ Features
+This repository contains a responsive webpage that allows users to quickly find and download Minecraft server software without searching through multiple websites.
 
-- 📦 Download Minecraft server JARs
-- 🚀 Fast and responsive design
-- 📱 Works on desktop, tablet, and mobile
-- 🔍 Easy navigation
-- 🎮 Supports multiple server software
+## Features
 
-## Supported Server Software
+- Responsive design
+- Fast and lightweight
+- Clean interface
+- Multiple server software
+- Official download sources
+- Easy navigation
+
+## Supported Software
 
 - Vanilla
 - Paper
 - Purpur
 - Folia
-- Velocity
-- Waterfall
-- BungeeCord
 - Fabric
 - Forge
 - NeoForge
@@ -27,15 +27,28 @@ A simple and responsive website that lets you download Minecraft server JAR file
 - Mohist
 - Arclight
 - Magma
+- Velocity
+- Waterfall
+- BungeeCord
 
-## Why?
+## Repository
 
-Finding the correct server JAR can be confusing because every project has its own website. This project brings many popular server downloads together in one clean and easy-to-use interface.
+```
+Download/
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+```
+
+## Purpose
+
+The goal of this project is to provide a simple interface where users can quickly access official Minecraft server downloads without searching across multiple websites.
 
 ## Disclaimer
 
-This website does **not** host any server JAR files itself. All downloads come from the official project websites. Credits belong to the original developers.
+This repository does not distribute Minecraft server software. All download links point to the official projects. Minecraft is a trademark of Mojang Studios. All rights belong to their respective owners.
 
 ## License
 
-This project is licensed under the MIT License.
+MIT License
