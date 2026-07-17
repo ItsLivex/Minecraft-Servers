@@ -2,13 +2,10 @@
 
 A collection of Minecraft server JAR download links in one place.
 
-This repository contains a responsive webpage that allows users to quickly find and download Minecraft server software without searching through multiple websites.
+This repository contains a webpage that allows users to quickly find and download Minecraft server software without searching through multiple websites.
 
 ## Features
 
-- Responsive design
-- Fast and lightweight
-- Clean interface
 - Multiple server software
 - Official download sources
 - Easy navigation
@@ -30,16 +27,6 @@ This repository contains a responsive webpage that allows users to quickly find 
 - Velocity
 - Waterfall
 - BungeeCord
-
-## Repository
-
-```
-Download/
-├── index.html
-├── style.css
-├── script.js
-└── assets/
-```
 
 ## Purpose
 
